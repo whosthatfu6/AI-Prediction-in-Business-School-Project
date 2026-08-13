@@ -1,0 +1,1 @@
+# AI-Prediction-in-Business-School-Project
