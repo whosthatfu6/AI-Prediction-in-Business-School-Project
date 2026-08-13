@@ -56,3 +56,5 @@ This Project showcases a structured progression of data science techniques appli
 * **TensorFlow / Keras** – Designing, compiling, and training Artificial Neural Networks (ANN)
 * **Matplotlib & Seaborn** – Professional statistical plotting, correlation heatmaps, pairplots, and boxplots
 * **Google Colab** – Interactive cloud-based execution environment
+
+Google Colab Link: https://colab.research.google.com/drive/127nl7cbY7vM34KjGuz83o1WUR3uSoCer?usp=sharing
