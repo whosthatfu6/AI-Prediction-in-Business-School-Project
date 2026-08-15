@@ -1,4 +1,4 @@
-# AI-Prediction-in-Business-School-Project
+# AI-Prediction-in-Business
 # 📊 Systematic Machine Learning & Deep Learning Portfolio for Business Analytics
 
 This Project showcases a structured progression of data science techniques applied to various business intelligence, predictive modeling, and analytics challenges. It spans from exploratory data analysis (EDA) and unsupervised clustering to classical machine learning and deep neural networks (ANN).
